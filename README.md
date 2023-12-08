@@ -1,3 +1,10 @@
+# Copy this code and paste it to your google site website
+```
+<script src="https://tumutumutimi.github.io/ruffle-embed/ruffle.js"></script>
+<div>
+<embed src="INSERT SWF FILE HERE" type="application/x-shockwave-flash"></embed>
+</div>
+```
 # ruffle-selfhosted
 
 ruffle-selfhosted is the intended way to get Ruffle onto your website.
