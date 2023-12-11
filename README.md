@@ -1,8 +1,15 @@
 # Copy this code and paste it to your google site website
 ```
 <script src="https://tumutumutimi.github.io/ruffle-embed/ruffle.js"></script>
-<div>
-<embed src="INSERT SWF FILE HERE" type="application/x-shockwave-flash"></embed>
+<div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
+        <embed height="480" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="SWF FILE URL" type="application/x-shockwave-flash" width="620"></embed>
+</div>
+```
+# Recomended size
+```
+<script src="https://tumutumutimi.github.io/ruffle-embed/ruffle.js"></script>
+<div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
+        <embed height="600" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="https://tumutumutimi.github.io/ruffle-games/papas-pizzeria.swf" type="application/x-shockwave-flash" width="900"></embed>
 </div>
 ```
 # ruffle-selfhosted
